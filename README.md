@@ -1,3 +1,3 @@
-# personal
+# nlpdev
 
-this is my personal web site
+NLP Dev web site
