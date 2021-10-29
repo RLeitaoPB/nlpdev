@@ -48,13 +48,13 @@ img{
     margin: 0;
     padding: 0;
 }
-.header__nav li {
+.header__nav li{
     list-style-type: none;
     background: #1B262C;
     text-align: center;
     border-bottom: 1px dotted rgba(255,255,255, 0.2);
 }
-.header__nav a {
+.header__nav a{
     text-decoration: none;
     text-transform: uppercase;
     color: white;
@@ -64,7 +64,7 @@ img{
     padding: 25px 0;
     transition: .8s ease;
 }
-.header__nav a:hover {
+.header__nav a:hover{
     color: #3282B8;   
 }
 .header__btnMenu{
@@ -168,7 +168,7 @@ img{
     align-items: center;
     background: linear-gradient(45deg, #1B262C 50%, transparent 50%) left calc(50% + 20px) bottom no-repeat, 
                 linear-gradient(-45deg, #1B262C 50%, transparent 50%) left calc(50% - 20px) bottom no-repeat, 
-                url(../img/01.jpg);
+                url(../img/colin-sabatier-i1w1Go_axis-unsplash.jpg);
     background-size: 40px 40px, 40px 40px, cover;
 }
 
